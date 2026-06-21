@@ -1,0 +1,2 @@
+# hsqlite
+sqliteのようなデータベースをHaskellで自作する
